@@ -23,7 +23,7 @@ const int sz[] = {
 #include "./external/sz"
 };
 
-#define IPSTR "221.204.241.179" // hq.sinajs.cn
+#define IPSTR "112.90.6.21" // hq.sinajs.cn
 #define PORT 80
 #define BUFSIZE 4096
 #define MAX_NUMBER_NUM 100
